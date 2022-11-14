@@ -1,4 +1,6 @@
 # My first Git Repository
 
-- date: 2022-11-14
+Here you can find my *bash script* from **Library Carpentry.**
 
+- date: 2022-11-14
+- author: Rico Himpan
